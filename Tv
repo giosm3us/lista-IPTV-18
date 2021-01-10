@@ -8,10 +8,6 @@ http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="United States",Beach TV - 30A
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CBS 4 News [360p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
@@ -30,8 +26,6 @@ http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg" group-title="United States",CC-TV Charlotte County
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CCX Sports [1080p]
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
@@ -49,66 +43,6 @@ http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DC COUNCIL CHANNEL [1080p]
 http://video.oct.dc.gov/out/u/15_12.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="United States",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="United States",Filmrise Movies
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FiOS1 News Lower Hudson Valley [720p]
-https://cdnapisec.kaltura.com/p/424341/sp/42434100/playManifest/entryId/1_is35xshu/format/applehttp/protocol/https/uiConfId/39790741/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1f/02/8d/1f028dc9-0feb-8280-37a0-ae9eaf62dde2/mzl.whuoihua.png/1200x630bb.jpg" group-title="United States",FLORIDA CH
-https://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hV46zMX.png" group-title="United States",Folk TV (New!)
-http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Food Network (5005414)
-https://api.vpnmate.com/play/?vlc=1&channel=5005414&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Food Network (East) (3005826)
-https://api.vpnmate.com/play/?vlc=1&channel=3005826&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Food Network (East) (6070)
-https://api.vpnmate.com/play/?vlc=1&channel=6070&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="United States",Fox (Asia)
-http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="United States",Fox (WSVN) (EST)
-http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/KSAZ_logo_2006.png/225px-KSAZ_logo_2006.png" group-title="United States",Fox 10 Phoniex (KSAZ)
-http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FOX 11 [720p]
-http://api.new.livestream.com/accounts/6140873/events/live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FOX 13 [720p]
-http://api.new.livestream.com/accounts/6180769/events/live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://localtvkstu.files.wordpress.com/2019/01/kstulogo.jpg" group-title="United States",Fox 13 Salt Lake City (KSTU)
-http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s2.wp.com/wp-content/themes/vip/localtv-2/img/kcpq/logo.png" group-title="United States",FOX 13 Seattle (KCPQ)
-http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/WXMI_2009_Logo.png/188px-WXMI_2009_Logo.png" group-title="United States",Fox 17 Michigan (WXMI)
-http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FOX 19 [720p]
-http://api.new.livestream.com/accounts/12136532/events/live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Wjbk-logo.png" group-title="United States",Fox 2 Detroit (WJBK)
-http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/FOXKOKI.us.png" group-title="United States",FOX 23 Tulsa (KOKI) (Opt-1)
-http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/KOKI23.png" group-title="United States",FOX 23 Tulsa (KOKI) (Opt-2)
-https://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="United States",FOX 25 Boston (WFXT)
-http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="United States",Fox 28 Savannah (WTGS) (Opt-1)
-http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="United States",Fox 28 Savannah (WTGS) (Opt-2)
-http://185.246.209.109:8080/FOX/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://localtvkdvr.files.wordpress.com/2016/03/fox31denver-kdvr.jpg" group-title="United States",Fox 31 Denver (KDVR)
-http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FOX 32 [720p]
-http://api.new.livestream.com/accounts/6370732/events/live/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.fox32chicago.com/lakana-fox-global/theme/images/wfld/placeholder-4x3.jpg" group-title="United States",Fox 32 Chicago (WFLD) (Opt-1)
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/FOX32WFLD.us.png" group-title="United States",Fox 32 Chicago (WFLD) (Opt-2)
-http://109.236.92.216:9090/CTVNews/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.fox35orlando.com/lakana-fox-global/theme/images/wofl/logo-fox-35-orlando-wofl-alt.png" group-title="United States",Fox 35 Orlando (WOFL)
-http://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Fox_4_Kansas_City_logo.png/375px-Fox_4_Kansas_City_logo.png" group-title="United States",Fox 4 Kanas (WDAF)
-http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.newstvliveonline.com/wp-content/uploads/2017/10/FOX-40-KTXL.jpg" group-title="United States",FOX 40 Sacramento (KTXL)
 http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",FOX 46 [432p]
