@@ -6,34 +6,27 @@ http://30a-tv.com/music.m3u8?fluxustv.m3u8
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="United States",Beach TV - 30A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Beto TV (Lifestyle)
 http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" group-title="United States",Big Ten Network (Opt-2)
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Bloomberg (1+)
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Bloomberg (Opt-2)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.butv10.com/wp-content/themes/butv10/_images/favicon.png" group-title="United States",BUTV10 - Boston University
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AjnHVZw.png" group-title="United States",Cartoons 4U (Opt-2)
-https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CBS 4 News [360p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CBS 4 News [720p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/Kweslogo.png" group-title="United States",CBS 41 Victoria (KXTS)
 http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo.png" group-title="United States",CBS 9 Los Angeles (KCAL)
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CBS News [720p] (Opt-3)
 http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.charlottecountyfl.gov/cctv/PublishingImages/CC-TV-color-logo.jpg" group-title="United States",CC-TV Charlotte County
 http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
@@ -41,175 +34,23 @@ http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CCX Sports [1080p]
 http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cerritos-tv3.jpg" group-title="United States",Cerritos TV3
 http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CGTV [234p]
 http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNBC World (5007320)
-https://api.vpnmate.com/play/?vlc=1&channel=5007320&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="News" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="United States",CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNN (5013468)
-https://api.vpnmate.com/play/?vlc=1&channel=5013468&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNN US (200503)
-https://api.vpnmate.com/play/?vlc=1&channel=200503&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNN US (201039)
-https://api.vpnmate.com/play/?vlc=1&channel=201039&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNN US (203910)
-https://api.vpnmate.com/play/?vlc=1&channel=203910&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CNN US (3005807)
-https://api.vpnmate.com/play/?vlc=1&channel=3005807&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Comedy Central US (200412)
-https://api.vpnmate.com/play/?vlc=1&channel=200412&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Comedy Central US (206060)
-https://api.vpnmate.com/play/?vlc=1&channel=206060&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="United States",Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" group-title="United States",CONtv (Opt-1)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="United States",Cooking 4U (Opt-1)
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SxRzFO8.png" group-title="United States",Cooking 4U (Opt-2)
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s20916.pcdn.co/wp-content/uploads/2017/02/Cooking_Channel_live_stream.png" group-title="United States",Cooking Channel
-http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Cooking Channel (5003714)
-https://api.vpnmate.com/play/?vlc=1&channel=5003714&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Cooking Channel US (200640)
-https://api.vpnmate.com/play/?vlc=1&channel=200640&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="United States",Court TV (Opt-1)
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="United States",Court TV (Opt-2)
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Cowboy Channel (1108734)
-https://api.vpnmate.com/play/?vlc=1&channel=1108734&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",COZI Network (200556)
-https://api.vpnmate.com/play/?vlc=1&channel=200556&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Crime and Investigation (1018444)
-https://api.vpnmate.com/play/?vlc=1&channel=1018444&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.csudh.edu/Assets/templates/header/CSUDH-RGB-Logo-Burgundy-Background.png" group-title="United States",CSU Dominguez Hills
-http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="United States",CT-N Court Feed
-http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="United States",CT-N Instant
-http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="United States",CT-N Live Stream 1
-http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/He6Ugfn.jpg" group-title="United States",CT-N Live Stream 2
-http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="United States",CTN (Opt-1)
-http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="United States",CTN (Opt-2)
-http://rrsatrtmp.tulix.tv/ctntv/ctntvmulti.smil/chunklist_w846886780_b1764000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bj37ZMY.png" group-title="United States",CTN (Opt-3)
-http://admin.ottdemo.rrsat.com:1935/ctntv/ctntv2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="United States",CW (WSFL) (EST) (Opt-1)
-http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="United States",CW (WSFL) (EST) (Opt-2)
-http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="United States",CW Boston (WHDH) (Opt-1)
-http://185.246.209.109:8080/CW/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/WHDH_7_logo.png" group-title="United States",CW Boston (WHDH) (Opt-2)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CW PA US (200600)
-https://api.vpnmate.com/play/?vlc=1&channel=200600&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="United States",Daystar TV (Opt-1)
-http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_240p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.daystar.com/wp-content/uploads/daystar-logo-1.png" group-title="United States",Daystar TV (Opt-2)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_1080p.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DC COUNCIL CHANNEL [1080p]
 http://video.oct.dc.gov/out/u/15_12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.dceaglecam.org/img/american_eagle_foundation_logo.png" group-title="United States",DC Eagle Cam
-http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/q66RMSc.png" group-title="United States",Denver 8 TV
-http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Destination America (5007830)
-https://api.vpnmate.com/play/?vlc=1&channel=5007830&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Destination America US (204220)
-https://api.vpnmate.com/play/?vlc=1&channel=204220&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery (5025076)
-https://api.vpnmate.com/play/?vlc=1&channel=5025076&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery Channel US (200428)
-https://api.vpnmate.com/play/?vlc=1&channel=200428&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery Family (5025095)
-https://api.vpnmate.com/play/?vlc=1&channel=5025095&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery Family US (206062)
-https://api.vpnmate.com/play/?vlc=1&channel=206062&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery Life (244568)
-https://api.vpnmate.com/play/?vlc=1&channel=244568&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Discovery Life Channel (5025209)
-https://api.vpnmate.com/play/?vlc=1&channel=5025209&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Channel (5025023)
-https://api.vpnmate.com/play/?vlc=1&channel=5025023&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Channel US (200585)
-https://api.vpnmate.com/play/?vlc=1&channel=200585&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Jr US (201064)
-https://api.vpnmate.com/play/?vlc=1&channel=201064&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Junior (5025272)
-https://api.vpnmate.com/play/?vlc=1&channel=5025272&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney XD (5012865)
-https://api.vpnmate.com/play/?vlc=1&channel=5012865&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Xd US (201063)
-https://api.vpnmate.com/play/?vlc=1&channel=201063&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Disney Xd US (205901)
-https://api.vpnmate.com/play/?vlc=1&channel=205901&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DISTRICT OF COLUMBIA NETWORK [540p]
-http://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DIY (5025093)
-https://api.vpnmate.com/play/?vlc=1&channel=5025093&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DIY Network US (206527)
-https://api.vpnmate.com/play/?vlc=1&channel=206527&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DJing Avicii [720p]
-http://www.djing.com/tv/session_avicii.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DJing Dance Floor [540p]
-http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DJing Hedonist [720p]
-http://www.djing.com/tv/session_hedonist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DJing Hits [540p]
-http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DJing Underground [540p]
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Do It Yourself Network (1018425)
-https://api.vpnmate.com/play/?vlc=1&channel=1018425&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mayday.is/img/showcase_docurama/dcr-branding-full.png" group-title="United States",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",Dog TV (1120659)
-https://api.vpnmate.com/play/?vlc=1&channel=1120659&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",DR GENE SCOTT [EN][480p]
-http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",E! Entertainment (5000441)
-https://api.vpnmate.com/play/?vlc=1&channel=5000441&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",E! Entertainment (Eest) (200529)
-https://api.vpnmate.com/play/?vlc=1&channel=200529&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",E! Entertainment (West) (1018422)
-https://api.vpnmate.com/play/?vlc=1&channel=1018422&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="United States",Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/lVdTSe78n3c/maxresdefault.jpgg" group-title="United States",EMCI TV Montréal
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://estv.viewerlink.tv/images/nt-ESTW.png" group-title="United States",Entertainment Studios
-http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",EPIX (East) (200254)
-https://api.vpnmate.com/play/?vlc=1&channel=200254&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",EPIX Hits (1018419)
-https://api.vpnmate.com/play/?vlc=1&channel=1018419&token=Bdf4vqpoh8_R:ODFiMDEyNjI1Yjg3NTlhMmJmNTJiZDFmYzE0OWZmNDY0YjY5YWFlMA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://myescambia.com/favicon.png" group-title="United States",Escambia County TV
-http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="United States",ESPN 2 (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" group-title="United States",ESPN 2 (Opt-3)
-http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",EVINE [720p]
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.fcac.org/sites/all/themes/fcac_base/images/logo-icon.png" group-title="United States",Fairfax Public Access
-http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ulango.tv/uploads/channels/3781870/logo_fightbox.png" group-title="United States",FightBox
-http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="United States",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="United States",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cQZdGc0.png" group-title="United States",Filmrise Movies
