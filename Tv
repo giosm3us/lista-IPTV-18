@@ -1,12 +1,52 @@
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="United States",30A Music (Opt-1)
-http://30a-tv.com/music.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 fox tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",140.Fox HD
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1,FOX Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 HBO 2
+http://bos.00387.info:8080/HBO2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Cinemax2.rs" tvg-name"CINEMAX 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinemax_ce_2.png", CINEMAX 2
+http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png", FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CinestarPremiere1.hr" tvg-name="CINESTAR PREMIERE 1" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine_star_hr_premiere1.png", CINESTAR PREMIERE 1
+http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.png", CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_news_channel.png", FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="MTV NORDIC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv_us.png" group-title="UK Ent", MTV NORDIC
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,United States: TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+
+
+
+#EXTINF:-1,United States: Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="United States",30A TV (Opt-1)
 http://30a-tv.com/my999.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg" group-title="United States",Beach TV - 30A
-http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/KCAL-TV_Logo.png" group-title="United States",CBS 9 Los Angeles (KCAL)
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="United States",CBS 4 News [360p]
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
