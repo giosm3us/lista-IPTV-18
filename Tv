@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+
+https://freeiptvserver.info/dl/ad-freeiptvservercom-09-08-2020-8.m3u
+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18252?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",140.Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
