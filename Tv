@@ -1,9 +1,76 @@
 #EXTM3U
+#EXTINF:-1, A&E
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18252?checkedby:iptvcat.com
+#EXTINF:-1, A&E
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/482?checkedby:iptvcat.com
+#EXTINF:-1, A&E
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18252?checkedby:iptvcat.com
+#EXTINF:-1, A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, A&E
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/3.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ABC
+http://iptvpro.premium-tv.org:8789/d8e0e1e1e1fd/elamouri/24147?checkedby:iptvcat.com
 #EXTINF:-1, A%E
 https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1, A%E
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18252?checkedby:iptvcat.com
-
+#EXTINF:-1, ABC Network
+http://r54.geotvplus.com:2082/9w3726geb5/8v9382ham2/64227?checkedby:iptvcat.com
+#EXTINF:-1, AFV
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,AMC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, AMC
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/105.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Adventure TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5938876b78d8d9c074c3c657/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=675&deviceId=5938876b78d8d9c074c3c657&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1,Animal planet
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18241?checkedby:iptvcat.com
+#EXTINF:-1, Atlanta channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, BET
+http://104.218.60.68:83/live/a0w10NwSwz/35222020350823A324475658352020/41.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, BETJams
+http://r54.geotvplus.com:2082/9w3726geb5/8v9382ham2/54828?checkedby:iptvcat.com
+#EXTINF:-1, CBS
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/494?checkedby:iptvcat.com
+#EXTINF:-1,Cbsn
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=207&deviceId=5dc481cda1d430000948a1b4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, CNN
+http://iptvpro.premium-tv.org:8789/live/d8e0e1e1e1fd/elamouri/24141.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central
+http://r54.geotvplus.com:2082/9w3726geb5/8v9382ham2/64268?checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central
+http://rv.imax.re:80/5124037472/1572081885/81060?checkedby:iptvcat.com
+#EXTINF:-1, CSI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=355&deviceId=5efbd29e4aa26700076c0d06&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, California music
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Chive tv
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, Cinemax Easy
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8?checkedby:iptvcat.com
+#EXTINF:-1, Cold case files
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=373&deviceId=5c37d6712de254456f7ec340&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, Colossal TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/24826?checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/731?checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=967&deviceId=5cf96dad1652631e36d43320&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, Comedy Central standard comedy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=466&deviceId=5ca675d6593a5d78f0e85c2e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, Comedy Dynamics
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,Complex Network
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=197&deviceId=5bb1b439ea5c9e53afd21325&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
+#EXTINF:-1, Court TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:iptvcat.com
 #EXTINF:-1, Fox HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 
