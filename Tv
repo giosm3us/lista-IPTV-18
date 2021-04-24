@@ -1,6 +1,475 @@
 #EXTM3U
-#EXTINF:-1, list
-https://raw.githubusercontent.com/roshanecooper/Iptv2021/main/2021tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zl7Gzwm.png" tvg-url="" group-title="",A&E (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="News",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="tv.acctv" tvg-name="ACCTV" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/lokNx1U.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Religious",ACCTV (720p)
+https://i.mjh.nz/au/Melbourne/tv.acctv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-url="" group-title="Comedy",AFV! (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/hjvjGVf.png" tvg-url="" group-title="",American Classic Network (480p)
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/WUAXiq1.png" tvg-url="" group-title="Movies",American Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-url="" group-title="",American Horrors (480p)
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/JLkzt7v.jpg" tvg-url="" group-title="",American Horrors (480p)
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-url="" group-title="News",BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-url="" group-title="Sport",Bek Sports East (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" tvg-url="" group-title="Sport",Bek Sports West (720p)
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="ID" tvg-language="English" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" tvg-url="" group-title="News",BeritaSatu English
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Kids",Boomerang
+http://27.254.130.56:80/live01/ch18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",CBS 2 New York (WCBS-TV) (720p)
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",CBS Dallas (KTVT) (720p)
+https://cbsn-dal-cedexis.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/BjO1ABv.jpg" tvg-url="" group-title="Local",CBSN Philly (720p)
+https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",HBO
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",HBO (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="",ITV
+https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="UK" tvg-language="English" tvg-logo="" tvg-url="" group-title="",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="NG" tvg-language="English" tvg-logo="https://i.imgur.com/rjLxSfx.png" tvg-url="" group-title="",Lagos Television (180p)
+http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",NBC (720p)
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",Showtime (East) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",Showtime (West) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="English" tvg-logo="" tvg-url="" group-title="",Sony Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JM" tvg-language="English" tvg-logo="https://i.imgur.com/IsXK52p.jpg" tvg-url="" group-title="Sport",SportsMax (720p)
+http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JM" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",SportsMax
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",STARZ (West) (1080p)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",STARZ Encore (1080p)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",Warner TV
+http://203.154.243.89:11205/
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Anal
+http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Asian
+http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Ass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Gangbang
+http://live.redtraffic.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Interracial
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net MILF
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Teen
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome" tvg-country="FR" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="FR" tvg-language="English" tvg-logo="" tvg-url="" group-title="XXX",AdultIPTV.net Woman
+http://live.redtraffic.net/woman.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CY" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-url="" group-
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s51529_h3_aa.png",A&E Network HD US
+http://latvonlive.com:33612/Norma110/Latv9/298
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s92022_h3_aa.png",AMC HD US
+http://latvonlive.com:33612/Norma110/Latv9/657
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s78808_h3_aa.png",American Heroes Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/913
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s28506_h3_aa.png",AXS TV HD
+http://latvonlive.com:33612/Norma110/Latv9/5696
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s64492_h3_aa.png",BBC America HD
+http://latvonlive.com:33612/Norma110/Latv9/857
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s63236_h3_aa.png",BET HD
+http://latvonlive.com:33612/Norma110/Latv9/146
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s14897_h3_aa.png",BET Her HD
+http://latvonlive.com:33612/Norma110/Latv9/139
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s18718_h3_aa.png",BET Soul HD
+http://latvonlive.com:33612/Norma110/Latv9/141
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s58625_h3_aa.png",Bravo HD
+http://latvonlive.com:33612/Norma110/Latv9/297
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s59440_h3_aa.png",CMT HD
+http://latvonlive.com:33612/Norma110/Latv9/147
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s62420_h3_aa.png",Comedy Central HD US
+http://latvonlive.com:33612/Norma110/Latv9/148
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s30156_h3_aa.png",Cooking Channel
+http://latvonlive.com:33612/Norma110/Latv9/848
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s67375_h3_aa.png",DIY
+http://latvonlive.com:33612/Norma110/Latv9/847
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s61812_h3_aa.png",E! Entertainment Television
+http://latvonlive.com:33612/Norma110/Latv9/295
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s50747_h3_aa.png",Food Network HD
+http://latvonlive.com:33612/Norma110/Latv9/360
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s59615_h3_aa.png",Freeform HD
+http://latvonlive.com:33612/Norma110/Latv9/910
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s14929_h3_aa.png",FUSE
+http://latvonlive.com:33612/Norma110/Latv9/366
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s58574_h3_aa.png",FX HD US
+http://latvonlive.com:33612/Norma110/Latv9/293
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s66379_h3_aa.png",FXX HD
+http://latvonlive.com:33612/Norma110/Latv9/291
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s58988_h3_aa.png",FYI Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/290
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s14909_h3_aa.png",Game Show Network
+http://latvonlive.com:33612/Norma110/Latv9/837
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s58623_h3_aa.png",Syfy HD US
+http://latvonlive.com:33612/Norma110/Latv9/287
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s11867_h3_aa.png",TBS HD US
+http://latvonlive.com:33612/Norma110/Latv9/934
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s64312_h3_aa.png",TCM HD US
+http://latvonlive.com:33612/Norma110/Latv9/663
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s70388_h3_aa.png",OWN HD
+http://latvonlive.com:33612/Norma110/Latv9/661
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s57391_h3_aa.png",TLC HD US
+http://latvonlive.com:33612/Norma110/Latv9/664
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s11164_h3_aa.png",TNT HD US
+http://latvonlive.com:33612/Norma110/Latv9/557
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s59303_h3_aa.png",Travel Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/359
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s64490_h3_aa.png",truTV HD US
+http://latvonlive.com:33612/Norma110/Latv9/534
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s73541_h3_aa.png",TV Land HD
+http://latvonlive.com:33612/Norma110/Latv9/144
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s58452_h3_aa.png",USA Network HD
+http://latvonlive.com:33612/Norma110/Latv9/285
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s60046_h3_aa.png",VH1 HD US
+http://latvonlive.com:33612/Norma110/Latv9/145
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s18822_h3_aa.png",Viceland HD
+http://latvonlive.com:33612/Norma110/Latv9/284
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://latvonlive.com:38261/Logos/all/s92020_h3_aa.png",WE TV HD
+http://latvonlive.com:33612/Norma110/Latv9/666
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://latvonlive.com:38261/Logos/all/s18649_h3_aa.png",Animal Planet HD
+http://latvonlive.com:33612/Norma110/Latv9/57
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://latvonlive.com:38261/Logos/all/s15798_h3_aa.png",Discovery Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/624
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://latvonlive.com:38261/Logos/all/s19247_h3_aa.png",Discovery en Español US
+http://latvonlive.com:33612/Norma110/Latv9/558
+#EXTINF:-1 group-title="Cultura" tvg-logo="http://latvonlive.com:38261/Logos/all/s73822_h3_aa.png",TLC HD
+http://latvonlive.com:33612/Norma110/Latv9/65
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/all/s57394_h3_aa.png",Animal Planet HD US
+http://latvonlive.com:33612/Norma110/Latv9/682
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/all/s56905_h3_aa.png",Discovery Channel HD US
+http://latvonlive.com:33612/Norma110/Latv9/916
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/all/s57708_h3_aa.png",History HD US
+http://latvonlive.com:33612/Norma110/Latv9/304
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/Ids/36.png",NASA TV
+http://latvonlive.com:33612/Norma110/Latv9/36
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/all/s67331_h3_aa.png",National Geographic Wild HD US
+http://latvonlive.com:33612/Norma110/Latv9/302
+#EXTINF:-1 group-title="Culture" tvg-logo="http://latvonlive.com:38261/Logos/all/s57390_h3_aa.png",Science Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/914
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s90653_h3_aa.png",AMC HD
+http://latvonlive.com:33612/Norma110/Latv9/633
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s72534_h3_aa.png",AXN HD
+http://latvonlive.com:33612/Norma110/Latv9/632
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s76408_h3_aa.png",Cine Sony HD
+http://latvonlive.com:33612/Norma110/Latv9/493
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s82428_h3_aa.png",Cinecanal HD
+http://latvonlive.com:33612/Norma110/Latv9/628
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s82420_h3_aa.png",Cinema Dinamita
+http://latvonlive.com:33612/Norma110/Latv9/95
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s10120_h3_aa.png",CineMax HD
+http://latvonlive.com:33612/Norma110/Latv9/96
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s34933_h3_aa.png",Cinemax East latino
+http://latvonlive.com:33612/Norma110/Latv9/723
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s33628_h3_aa.png",De Película Clásico
+http://latvonlive.com:33612/Norma110/Latv9/364
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s35401_h3_aa.png",De Película HD
+http://latvonlive.com:33612/Norma110/Latv9/363
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/DHE_HD.png",DHE HD
+http://latvonlive.com:33612/Norma110/Latv9/97
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s58828_h3_aa.png",Fox Premium Action HD
+http://latvonlive.com:33612/Norma110/Latv9/611
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s71662_h3_aa.png",Fox Premium Cinema HD
+http://latvonlive.com:33612/Norma110/Latv9/616
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s44028_h3_aa.png",Fox Premium Classics HD
+http://latvonlive.com:33612/Norma110/Latv9/615
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s90916_h3_aa.png",Fox Premium Comedy HD
+http://latvonlive.com:33612/Norma110/Latv9/614
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s81294_h3_aa.png",Fox Premium Family HD
+http://latvonlive.com:33612/Norma110/Latv9/610
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s58833_h3_aa.png",Fox Premium Movies HD
+http://latvonlive.com:33612/Norma110/Latv9/609
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s18812_h3_aa.png",Fox Premium Series HD
+http://latvonlive.com:33612/Norma110/Latv9/101
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s25069_h3_aa.png",FX Movie HD
+http://latvonlive.com:33612/Norma110/Latv9/581
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s68317_h3_aa.png",Golden Plus HD
+http://latvonlive.com:33612/Norma110/Latv9/607
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s24553_h3_aa.png",HBO Latino East HD
+http://latvonlive.com:33612/Norma110/Latv9/29
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s19548_h3_aa.png",HBO HD
+http://latvonlive.com:33612/Norma110/Latv9/601
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s68140_h3_aa.png",HBO 2 HD
+http://latvonlive.com:33612/Norma110/Latv9/603
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s16585_h3_aa.png",HBO Family HD
+http://latvonlive.com:33612/Norma110/Latv9/602
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/hboMundi.png",HBO Mundi HD
+http://latvonlive.com:33612/Norma110/Latv9/594
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s16797_h3_aa.png",HBO Plus HD
+http://latvonlive.com:33612/Norma110/Latv9/600
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/hboPOP.png",HBO POP HD
+http://latvonlive.com:33612/Norma110/Latv9/593
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s74450_h3_aa.png",HBO Signature HD
+http://latvonlive.com:33612/Norma110/Latv9/599
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s68021_h3_aa.png",Space HD
+http://latvonlive.com:33612/Norma110/Latv9/332
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s71727_h3_aa.png",TNT HD
+http://latvonlive.com:33612/Norma110/Latv9/322
+#EXTINF:-1 group-title="Peliculas" tvg-logo="http://latvonlive.com:38261/Logos/all/s53218_h3_aa.png",Universal Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/111
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s97051_h3_aa.png",Comet HD
+http://latvonlive.com:33612/Norma110/Latv9/820
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s70253_h3_aa.png",FX Movie Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/292
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s66268_h3_aa.png",Hallmark Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/836
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s105723_h3_aa.png",Hallmark Drama HD
+http://latvonlive.com:33612/Norma110/Latv9/835
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s46710_h3_aa.png",Hallmark Movies & Mysteries HD
+http://latvonlive.com:33612/Norma110/Latv9/834
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s55887_h3_aa.png",Lifetime Movie Network HD
+http://latvonlive.com:33612/Norma110/Latv9/503
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s69130_h3_aa.png",Sony Movie Channel HD
+http://latvonlive.com:33612/Norma110/Latv9/818
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s34933_h3_aa.png",Cinemax East HD US
+http://latvonlive.com:33612/Norma110/Latv9/724
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s59373_h3_aa.png",Moremax East HD
+http://latvonlive.com:33612/Norma110/Latv9/779
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s59961_h3_aa.png",5-Star Max HD
+http://latvonlive.com:33612/Norma110/Latv9/737
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s59948_h3_aa.png",ActionMax East HD
+http://latvonlive.com:33612/Norma110/Latv9/735
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s59963_h3_aa.png",MovieMax HD
+http://latvonlive.com:33612/Norma110/Latv9/734
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s25622_h3_aa.png",OuterMax HD
+http://latvonlive.com:33612/Norma110/Latv9/856
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s18435_h3_aa.png",ThrillerMax East HD
+http://latvonlive.com:33612/Norma110/Latv9/679
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s65669_h3_aa.png",Epix East HD
+http://latvonlive.com:33612/Norma110/Latv9/627
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s73075_h3_aa.png",Epix 2 HD
+http://latvonlive.com:33612/Norma110/Latv9/626
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s68409_h3_aa.png",Epix Drive-In HD
+http://latvonlive.com:33612/Norma110/Latv9/605
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s74073_h3_aa.png",Epix Hits HD
+http://latvonlive.com:33612/Norma110/Latv9/911
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s19548_h3_aa.png",HBO East HD US
+http://latvonlive.com:33612/Norma110/Latv9/685
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s10241_h3_aa.png",HBO 2 East HD
+http://latvonlive.com:33612/Norma110/Latv9/686
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s10243_h3_aa.png",HBO Signature East HD US
+http://latvonlive.com:33612/Norma110/Latv9/690
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s18431_h3_aa.png",HBO Zone East HD US
+http://latvonlive.com:33612/Norma110/Latv9/689
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s11115_h3_aa.png",Showtime East HD
+http://latvonlive.com:33612/Norma110/Latv9/696
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s11116_h3_aa.png",Showtime 2 HD
+http://latvonlive.com:33612/Norma110/Latv9/701
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s20622_h3_aa.png",Sho x BET HD
+http://latvonlive.com:33612/Norma110/Latv9/104
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s18086_h3_aa.png",Showtime Extreme HD
+http://latvonlive.com:33612/Norma110/Latv9/699
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s16153_h3_aa.png",Showtime Showcase HD
+http://latvonlive.com:33612/Norma110/Latv9/691
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s25270_h3_aa.png",Showtime Next HD
+http://latvonlive.com:33612/Norma110/Latv9/585
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s25272_h3_aa.png",Showtime Women HD
+http://latvonlive.com:33612/Norma110/Latv9/107
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s25274_h3_aa.png",Showtime Family Zone HD
+http://latvonlive.com:33612/Norma110/Latv9/103
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s36225_h3_aa.png",StarzEncore East HD
+http://latvonlive.com:33612/Norma110/Latv9/642
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s14871_h3_aa.png",StarzEncore Action HD
+http://latvonlive.com:33612/Norma110/Latv9/100
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s14870_h3_aa.png",StarzEncore Black HD
+http://latvonlive.com:33612/Norma110/Latv9/98
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s14764_h3_aa.png",StarzEncore Classic HD
+http://latvonlive.com:33612/Norma110/Latv9/93
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s14766_h3_aa.png",StarzEncore Suspense HD
+http://latvonlive.com:33612/Norma110/Latv9/61
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s34941_h3_aa.png",Starz East HD
+http://latvonlive.com:33612/Norma110/Latv9/697
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s57569_h3_aa.png",Starz Comedy HD
+http://latvonlive.com:33612/Norma110/Latv9/693
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s57573_h3_aa.png",Starz Edge HD
+http://latvonlive.com:33612/Norma110/Latv9/694
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s16833_h3_aa.png",Starz in Black HD
+http://latvonlive.com:33612/Norma110/Latv9/51
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s67236_h3_aa.png",Starz Cinema HD
+http://latvonlive.com:33612/Norma110/Latv9/692
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s102903_h3_aa.png",StarzEncore Family HD
+http://latvonlive.com:33612/Norma110/Latv9/56
+#EXTINF:-1 group-title="Movies" tvg-logo="http://latvonlive.com:38261/Logos/all/s102906_h3_aa.png",StarzEncore Westerns HD
+http://latvonlive.com:33612/Norma110/Latv9/52
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.imgur.com/Ocro6qo.png",AMG TV
+https://tinyurl.com/y2huroze
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/58af4c093a41ca9d4ecabe96/featuredImage.jpg?w=256",Black Cinema
+https://tinyurl.com/y27jwze8
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f15e32b297f96000768f928/featuredImage.jpg?w=256",Classic Comedy
+https://tinyurl.com/y3zawb3n
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f15e3cccf49290007053c67/featuredImage.jpg?w=256",Classic TV Drama
+https://tinyurl.com/y4fb8tcl
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg?w=256",Comedy
+https://tinyurl.com/yyp5munq
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5ca671f215a62078d2ec0abf/colorLogoPNG.png?w=256",Comedy Central
+https://tinyurl.com/y2jk3chr
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f99e24636d67d0007a94e6d/featuredImage.jpg?w=256",Comedy Central Animation
+https://tinyurl.com/yybewna9
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5ca675d6593a5d78f0e85c2e/colorLogoPNG.png?w=256",Comedy Central Stand Up
+https://tinyurl.com/y5uptxte
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b85a7582921777994caea63/featuredImage.jpg?w=256",Documentaries
+https://tinyurl.com/y4qg3xb8
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg?w=256",Drama
+https://tinyurl.com/y2ny964n
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.ibb.co/2szhxJv/DustTV.png",Dust
+https://tinyurl.com/yyqt9bxo
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b64a245a202b3337f09e51d/featuredImage.jpg?w=256",Fantastic
+https://tinyurl.com/y4wg4udy
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Scream_TV.png/140px-Scream_TV.png",Galxy Scream
+https://tinyurl.com/y2efb5lx
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5af09e645126c2157123f9eb/featuredImage.jpg?w=256",Laugh Out Network
+https://tinyurl.com/y3eflmeb
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/55a6a3275616b6240c26f393/featuredImage.jpg?w=256",Shout TV
+https://tinyurl.com/y3765753
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5637d31f319573e26b64040b/featuredImage.jpg?w=256",Standup TV
+https://tinyurl.com/yy8t3jsc
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5efbd39f8c4ce900075d7698/featuredImage.jpg?w=256",Star Trek
+https://tinyurl.com/yyfof724
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f988934a507de00075d9ae7/featuredImage.jpg?w=256",Showtime Selects
+https://tinyurl.com/y45yofjx
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5cb0cae7a461406ffe3f5213/featuredImage.jpg?w=256",Paramount Movie Channel
+https://tinyurl.com/y3xaqjvb
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5e8254118601b80007b4b7ae/featuredImage.jpg?w=256",Stories By AMC
+https://tinyurl.com/y6bgj89v
+#EXTINF:-1 group-title="USA" tvg-logo="https://kodi.tv/sites/default/files/styles/medium_crop/public/addon_assets/plugin.video.crackle/icon/icon.png",Crackle
+https://tinyurl.com/y9wobeh9
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f4d878d3d19b30007d2e782/featuredImage.jpg?w=256",70'S Cinema
+https://tinyurl.com/yyet5gu5
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5ca525b650be2571e3943c63/featuredImage.jpg?w=256",80'S Rewind
+https://tinyurl.com/y2ttkqbf
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5c665db3e6c01b72c4977bc2/featuredImage.jpg?w=175",Cult Films
+https://tinyurl.com/yxuo9ftp
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5a66795ef91fef2c7031c599/featuredImage.jpg?w=256",Romance
+https://tinyurl.com/y4ykzlw4
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5ba3fb9c4b078e0f37ad34e8/featuredImage.jpg?w=256",Spotlight
+https://tinyurl.com/y6oq4kkw
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f4d863b98b41000076cd061/featuredImage.jpg?w=256",Staff Picks
+https://tinyurl.com/y49b6was
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f15e281b0b8840007324b55/featuredImage.jpg?w=256",Suspense
+https://tinyurl.com/yxnsusnx
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/561d7d484dc7c8770484914a/featuredImage.jpg?w=256",Action
+https://tinyurl.com/y5quzc72
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.ibb.co/56BbSGG/American-Horrors.png",American Horrors
+https://tinyurl.com/yygjou73
+#EXTINF:-1 group-title="USA" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQEazpGlJ5s6SQ/company-logo_200_200/0/1553207014560?e=2159024400&v=beta&t=XVuTm4oSNLC6O8kgJAda5eNfJNeVSQ5jk9TgHI-V7pY",CineHouse
+https://tinyurl.com/y6qgoxuu
+#EXTINF:-1 group-title="USA" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA=s360",CineLife
+https://tinyurl.com/y3mkersz
+#EXTINF:-1 group-title="USA" tvg-logo="https://i.ibb.co/d5z0p0L/Classic-Cinema.png",Classic Cinema
+https://tinyurl.com/y6g76k49
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/561c5b0dada51f8004c4d855/featuredImage.jpg?w=256",Classic Movies
+https://tinyurl.com/y2vk76ld
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png?w=256",CMT Westerns
+https://tinyurl.com/y5ubo5qv
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f31fd1b4c510e00071c3103/featuredImage.jpg?w=256",Crime Drama
+https://tinyurl.com/y3oby85g
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f4d8594eb979c0007706de7/featuredImage.jpg?w=256",Crime Movies
+https://tinyurl.com/y3akbxow
+#EXTINF:-1 group-title="USA" tvg-logo="https://static-s.aa-cdn.net/img/ios/604384221/e76b8b0cbc0c5611214f277fd2a92073?v=1",Film Stream
+https://tinyurl.com/yyzbm2rj
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/58e55b14ad8e9c364d55f717/featuredImage.jpg?w=256",Flicks Of Fury
+https://tinyurl.com/y3j7jqj7
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/569546031a619b8f07ce6e25/featuredImage.jpg?w=256",Horror
+https://tinyurl.com/y5glxvde
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.pluto.TV/channels/5f15e181520cfa000771ce79/featuredImage.jpg?w=256",Love Stories
+https://tinyurl.com/y59pmb6m
+#EXTINF:-1 group-title="USA" tvg-logo="http://photocall.xyz/images/moviemix.png",Movie Mix
+https://tinyurl.com/y5lr3ukq
 #EXTINF:-1, A&E
 http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/18252?checkedby:iptvcat.com
 #EXTINF:-1, A&E
